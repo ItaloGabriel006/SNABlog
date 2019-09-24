@@ -1,0 +1,33 @@
+@import url(../../style.css);
+
+body {
+  background-color: #300021 !important;
+}
+
+.texto {
+  color: #e86610;
+}
+
+.bull {
+  width: 200px;
+}
+
+.daryl {
+  width: 300px;
+}
+
+.dynamike {
+  width: 200px;
+}
+
+.mortis {
+  width: 250px;
+}
+
+.spike {
+  width: 250px;
+}
+
+.ricochete {
+  width: 200px;
+}

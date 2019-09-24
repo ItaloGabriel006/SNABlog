@@ -1,0 +1,15 @@
+@import url(../../style.css);
+
+.title {
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+
+.thumbImg {
+  align-items: center;
+}
+
+a {
+  text-decoration: none !important;
+}

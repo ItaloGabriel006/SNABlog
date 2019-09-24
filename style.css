@@ -1,0 +1,74 @@
+body {
+  background-color: #f1e9da !important;
+}
+
+.logo {
+  width: 80px;
+  height: 50px;
+  border-radius: 30px;
+}
+
+.container {
+  margin-top: 15px;
+}
+
+.card-img-top {
+  width: 300px !important;
+  width: 200px !important;
+}
+
+#crow {
+  width: 150px !important;
+}
+
+.jumbotron-fluid {
+  color: 070707 !important;
+}
+
+.slide {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.textF {
+  color: #e86610 !important;
+}
+
+.tdr {
+  text-align: center;
+  color: #e86610;
+}
+
+.footer {
+  background-color: #1f2041;
+}
+
+.news {
+  margin-bottom: 60px;
+}
+
+.newsTittle {
+  color: 070707;
+  font-size: 40px;
+  text-align: center;
+  padding: 20px;
+}
+
+.updates {
+  margin-bottom: 60px;
+  padding: 10px;
+}
+
+.card-deck {
+  margin-bottom: 30px;
+}
+
+.img-fluid {
+  width: 800px;
+  height: 800px;
+}
+
+.imgVoz {
+  width: 300px;
+  height: 300px;
+}

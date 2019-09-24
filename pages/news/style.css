@@ -1,0 +1,79 @@
+body {
+  background-color: #300021 !important;
+}
+
+.logo {
+  width: 80px;
+  height: 50px;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  padding: 30px;
+}
+
+.title2 {
+  text-align: center;
+  color: white;
+  padding: 40px;
+}
+
+.subTitle {
+  color: white;
+}
+
+.text {
+  color: white;
+  text-align: justify;
+  padding: 10px;
+  line-height: 30px;
+}
+
+.carousel1 {
+  width: 100%;
+  padding: 30px;
+}
+
+.img-fluid {
+  width: 100%;
+}
+
+.trofeus2 {
+  margin-top: 70px;
+}
+
+.footer {
+  background-color: #343a40;
+}
+
+.textF {
+  color: #e86610 !important;
+}
+
+.tdr {
+  text-align: center;
+  color: #e86610;
+}
+
+.gemas {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.brawlers {
+  padding-bottom: 50px;
+}
+
+.mdj {
+  padding-bottom: 30px;
+}
+
+.nomeColorido {
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+#img {
+  width: 2000px;
+}
